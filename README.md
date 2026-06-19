@@ -1,6 +1,6 @@
-# 👨‍💻 Marco Miguel Borba
+👨‍💻 Marco Miguel Borba
 
-## Sobre mim
+Sobre mim
 
 Olá! Meu nome é **Marco Miguel Borba**, tenho 19 anos e sou estudante de **Ciência da Computação na FURB (Universidade Regional de Blumenau)**.
 
@@ -10,25 +10,25 @@ Atualmente trabalho como **Assistente de Suporte N1 na Myrp Soluções Empresari
 
 ---
 
-## 🎓 Formação
+🎓 Formação
 
-### Universidade Regional de Blumenau (FURB)
+Universidade Regional de Blumenau (FURB)
 
 * Bacharelado em Ciência da Computação
 * Em andamento
 
-### CEDUP Hermann Hering
+CEDUP Hermann Hering
 
 * Técnico em Análise e Desenvolvimento de Sistemas
 * Concluído
 
 ---
 
-## 💼 Experiência
+💼 Experiência
 
-### Assistente de Suporte N1 — Myrp Soluções Empresariais
+Assistente de Suporte N1 — Myrp Soluções Empresariais
 
-**Outubro/2025 - Atual**
+Outubro/2025 - Atual
 
 Principais atividades:
 
@@ -42,9 +42,9 @@ Principais atividades:
 
 ---
 
-## 🛠 Tecnologias
+🛠 Tecnologias
 
-### Linguagens
+Linguagens
 
 * Java
 * JavaScript
@@ -53,11 +53,11 @@ Principais atividades:
 * HTML
 * CSS
 
-### Banco de Dados
+Banco de Dados
 
-* MySQL
+MySQL
 
-### Ferramentas
+Ferramentas
 
 * Git
 * GitHub
@@ -67,7 +67,7 @@ Principais atividades:
 
 ---
 
-## 📚 Áreas de Interesse
+📚 Áreas de Interesse
 
 * Desenvolvimento de Software
 * Banco de Dados
@@ -79,9 +79,9 @@ Principais atividades:
 
 ---
 
-## 🚀 Projetos
+🚀 Projetos
 
-### Sistema de Aluguel de Hotel
+Sistema de Aluguel de Hotel
 
 Projeto acadêmico utilizando MySQL com modelagem relacional envolvendo:
 
@@ -92,13 +92,13 @@ Projeto acadêmico utilizando MySQL com modelagem relacional envolvendo:
 * Pagamentos
 * Serviços Extras
 
-### Validador HTML
+Validador HTML
 
 Aplicação desenvolvida em Java para validação de estrutura e aninhamento de tags HTML.
 
 ---
 
-## 🎮 Hobbies
+🎮 Hobbies
 
 * Jogos eletrônicos
 * Minecraft Modded
@@ -107,9 +107,8 @@ Aplicação desenvolvida em Java para validação de estrutura e aninhamento de 
 * Aprendizado contínuo em tecnologia
 
 ---
+📫 Contato
 
-## 📫 Contato
-
-* GitHub: github.com/seu-usuario
-* LinkedIn: linkedin.com/in/seu-linkedin
-* E-mail: [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
+* GitHub: github.com/Marco7n
+* LinkedIn: www.linkedin.com/in/marcomiguelborba
+* E-mail: marcomiguel091@gmail.com
